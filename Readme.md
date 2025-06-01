@@ -1,4 +1,4 @@
-Projet MAchine Learning 2025
+Projet Machine Learning 2025
 
 Ce projet va nous permettre de mettre en place des modèles de régression et de classification, permettant respectivement de prédire le taux de saturation de l'oxygène dans l'eau, et de déduire si une personne est "riche" ou non.
 
