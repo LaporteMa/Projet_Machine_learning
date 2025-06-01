@@ -1,0 +1,21 @@
+name: Vie_marine_projet_ML
+description: Prédire le taux de d'oxygène saturé dans de l'eau
+Dataset: https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset
+
+channels: 
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - seaborn
+  - scipy
+  - 
+  - pip:
+    - catboost
