@@ -4,7 +4,7 @@ Ce projet va nous permettre de mettre en place des modèles de régression et de
 
 ### 1. Classification
 Prédiction du pourcentage de saturationdu niveau d'oxygène dans de l'eau de mer en fonction de :
-- son Ph
+- son pH
 - la température de l'eau
 - son niveau de chlorophyll
 - l'oxygène déjà présent 
